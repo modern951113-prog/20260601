@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+overflow: hidden; /* 隱藏多餘的捲軸 */
+  background-color: #1e1e2d; /* 也可以在這裡上個深色底 */
+}
+
+
+canvas {
+  display: block;
+}
